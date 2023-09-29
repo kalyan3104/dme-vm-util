@@ -6,7 +6,7 @@ require (
 	github.com/kalyan3104/dme-components-big-int v0.0.1
 	github.com/kalyan3104/dme-vm-common v0.0.1
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/crypto v0.13.0
+	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 )
 
 require (
